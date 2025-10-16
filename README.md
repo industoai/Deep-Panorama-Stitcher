@@ -20,7 +20,7 @@ General options can be selected before applying the stitching methods. These opt
 - You should add the path for the image directory with the help of `-d` or `--data_path`.
 - One can resize the image with `-r` or `--resize_shape`. (Default value is `None` which uses the original size of the images.)
 - Define the result path with `--result_path` or `-s` (Default directory is `./`).
-- Select the verbose value for logging for example as `-v` depending on what kind of logs you want to see.
+- Select the verbose value for logging for example as `-v`, depending on what kind of logs you want to see.
 
 The available methods are as:
 - [Simple Opencv Stitcher](#simple-opencv-stitcher)
